@@ -1,0 +1,10 @@
+img {
+    width: 100%;
+}
+
+.post_container{
+    width: 200px;
+    background-color: red;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
